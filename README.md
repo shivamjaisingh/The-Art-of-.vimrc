@@ -6,7 +6,6 @@ Welcome to **The Art of .vimrc**, a repository dedicated to creating an essentia
 
 - [Introduction](#introduction)
 - [The Essential .vimrc](#the-essential-vimrc)
-- [Explanation of Settings](#explanation-of-settings)
 
 ## Introduction
 
