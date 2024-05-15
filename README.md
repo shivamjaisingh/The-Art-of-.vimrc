@@ -16,44 +16,44 @@ Vim is a powerful and flexible text editor that can be customized to suit your n
 Below is the essential `.vimrc` file. You can copy this directly into your `.vimrc` file or use it as a starting point for further customization.
 
 ```vim
-"  Set the default encoding to UTF-8
+" Set the default encoding to UTF-8
 set encoding=utf-8
 
-"  Enable syntax highlighting
+" Enable syntax highlighting
 syntax on
 
-"  Set line numbers
+" Set line numbers
 set number
 
-"  Highlight current line
+" Highlight current line
 set cursorline
 
-"  Enable mouse support in all modes
+" Enable mouse support in all modes
 set mouse=a
 
-"  Set tabs to show as 4 spaces
+" Set tabs to show as 4 spaces
 set tabstop=4
 set shiftwidth=4
 set expandtab
 
-"  Enable line wrapping
+" Enable line wrapping
 set wrap
 
-"  Show matching parentheses and brackets
+" Show matching parentheses and brackets
 set showmatch
 
-"  Ignore case when searching
+" Ignore case when searching
 set ignorecase
 
-"  Override ignorecase if search pattern has uppercase letters
+" Override ignorecase if search pattern has uppercase letters
 set smartcase
 
-"  Enable incremental search
+" Enable incremental search
 set incsearch
 
-"  Enable auto-indentation
+" Enable auto-indentation
 set autoindent
 
-"  Disable swap file creation
+" Disable swap file creation
 set noswapfile
 ```
