@@ -1,1 +1,2 @@
-# the-art-of-.vimrc
+# The Art of .vimrc
+
