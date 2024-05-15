@@ -37,3 +37,6 @@ set incsearch
 
 ## Enable auto-indentation
 set autoindent
+
+## Disable swap file creation
+set noswapfile
