@@ -1,3 +1,4 @@
+## Set the default encoding to UTF-8
 set encoding=utf-8
 
 ## Set the default encoding to UTF-8
