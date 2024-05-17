@@ -7,11 +7,11 @@ Welcome to **The Art of .vimrc**, a repository dedicated to creating an essentia
 - [Introduction](#introduction)
 - [The Essential .vimrc](#the-essential-vimrc)
 
-## Introduction
+### Introduction
 
 Vim is a powerful and flexible text editor that can be customized to suit your needs. The `.vimrc` file is where these customizations live. This repository provides an essential `.vimrc` file that includes a collection of settings to improve usability, efficiency, and overall user experience.
 
-## The Essential .vimrc
+### The Essential .vimrc
 
 Below is the essential `.vimrc` file. You can copy this directly into your `.vimrc` file or use it as a starting point for further customization.
 
