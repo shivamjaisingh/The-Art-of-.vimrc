@@ -1,12 +1,5 @@
 # The Art of .vimrc
 
-Welcome to **The Art of .vimrc**, a repository dedicated to creating an essential and highly functional `.vimrc` file for Vim users. This configuration file aims to enhance your Vim experience by providing a set of sensible defaults and useful settings.
-
-## Contents
-
-- [Introduction](#introduction)
-- [The Essential .vimrc](#the-essential-vimrc)
-
 ## Introduction
 
 Vim is a powerful and flexible text editor that can be customized to suit your needs. The `.vimrc` file is where these customizations live. This repository provides an essential `.vimrc` file that includes a collection of settings to improve usability, efficiency, and overall user experience.
